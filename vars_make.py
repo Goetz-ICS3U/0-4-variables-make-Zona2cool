@@ -16,8 +16,8 @@ sideLegnth_oct = int(input("Enter Octagon Side Length: "))
 
 
 #circle Calculations
-circle_area = 3.14159*rad_circle**2
-circle_perimeter = 2*3.14159*rad_circle
+circle_area = 3.1415926535897932384*rad_circle**2
+circle_perimeter = 2*3.1415926535897932384*rad_circle
 
 
 #rectangle Calculations
